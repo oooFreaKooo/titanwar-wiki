@@ -49,7 +49,7 @@ export default defineNuxtConfig({
         head: {
             title: 'Titan War Wiki',
             htmlAttrs: { lang: 'en' },
-            meta: [{ name: 'description', content: 'A fan wiki for Titan War heroes, skins, and gear.' }],
+            meta: [{ name: 'description', content: 'An unofficial fan wiki for Titan War heroes, skins, and gear. Not affiliated with or endorsed by its creators.' }],
         },
     },
 

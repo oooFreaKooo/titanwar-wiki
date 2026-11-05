@@ -293,7 +293,7 @@ import type { ArtifactItem, ItemStat, OrigemSet } from '~/composables/useItems'
 
 useSeoMeta({
     title: 'Items · Titan War Wiki',
-    description: 'Titan War armors, Origems, and artifacts.',
+    description: 'Unofficial fan wiki of Titan War armors, Origems, and artifacts.',
 })
 
 const { armors, origems, artifacts, origemNote } = useItems()

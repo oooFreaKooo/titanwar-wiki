@@ -87,7 +87,7 @@
 <script lang="ts" setup>
 useSeoMeta({
     title: 'Skins · Titan War Wiki',
-    description: 'Legendary, Epic, and Excellent Titan War skins.',
+    description: 'Unofficial fan wiki of Legendary, Epic, and Excellent Titan War skins.',
 })
 
 const { heroes } = useHeroes()

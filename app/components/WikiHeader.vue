@@ -60,7 +60,7 @@
                         side="left"
                         class="w-72"
                         title="Titan War Wiki"
-                        description="Heroes, skins, and items."
+                        description="Unofficial fan wiki. Heroes, skins, and items."
                     >
                         <template #content>
                             <nav

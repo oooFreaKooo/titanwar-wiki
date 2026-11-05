@@ -94,7 +94,7 @@
 <script lang="ts" setup>
 useSeoMeta({
     title: 'Heroes · Titan War Wiki',
-    description: 'Browse Titan War heroes, their classes, and their skills.',
+    description: 'Unofficial fan wiki of Titan War heroes, their classes, and their skills.',
 })
 
 const { heroes } = useHeroes()
