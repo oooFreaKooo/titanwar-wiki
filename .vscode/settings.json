@@ -1,0 +1,47 @@
+{
+  "editor.formatOnSave": true,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "tailwindCSS.classFunctions": [
+    "tw",
+    "clsx",
+    "tw\\.[a-z-]+"
+  ],
+  "tailwindCSS.experimental.classRegex": [
+    [
+      "\\btv\\(\\s*((?:\"(?:\\\\.|[^\"\\\\])*\"|'(?:\\\\.|[^'\\\\])*'|`(?:\\\\.|[^`\\\\])*`|[^)]*)*)\\)",
+      "[\"']([^\"']*)[\"']"
+    ],
+    [
+      "\\btv\\(\\s*((?:\"(?:\\\\.|[^\"\\\\])*\"|'(?:\\\\.|[^'\\\\])*'|`(?:\\\\.|[^`\\\\])*`|[^)]*)*)\\)",
+      "`([^`]*)`"
+    ]
+  ],
+    "search.useGlobalIgnoreFiles": false,
+    "search.useIgnoreFiles": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "eslint.useFlatConfig": true,
+    "eslint.validate": [
+        "javascript",
+        "typescript",
+        "vue",
+        "json",
+        "javascriptreact",
+        "typescriptreact",
+        "mjs"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+  "eslint.format.enable": true,
+  "eslint.codeActionsOnSave.rules": null
+}

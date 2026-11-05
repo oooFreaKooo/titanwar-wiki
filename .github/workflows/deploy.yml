@@ -1,0 +1,42 @@
+# https://nuxt.com/deploy/github-pages
+name: Deploy Nuxt App to GitHub Pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - run: corepack enable
+      - uses: actions/setup-node@v7
+        with:
+          node-version: "24"
+      - run: yarn install --immutable
+      - run: yarn nuxt build --preset github_pages
+        env:
+          NUXT_APP_BASE_URL: /${{ github.event.repository.name }}/
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./.output/public
+
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

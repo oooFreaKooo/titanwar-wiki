@@ -1,0 +1,3276 @@
+{
+  "origemNote": "When an Origem set is equipped, the set level follows the lowest star level of equipped Origems.",
+  "armors": [
+    {
+      "id": 27001,
+      "name": "Standard Sword",
+      "set": "Standard",
+      "slot": "Sword",
+      "grade": 1,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "84"
+        }
+      ],
+      "icon": "images/items/1701.png"
+    },
+    {
+      "id": 27101,
+      "name": "Standard Armor",
+      "set": "Standard",
+      "slot": "Armor",
+      "grade": 1,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "480"
+        }
+      ],
+      "icon": "images/items/1713.png"
+    },
+    {
+      "id": 27201,
+      "name": "Standard Helmet",
+      "set": "Standard",
+      "slot": "Helmet",
+      "grade": 1,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "320"
+        }
+      ],
+      "icon": "images/items/1725.png"
+    },
+    {
+      "id": 27301,
+      "name": "Standard Greaves",
+      "set": "Standard",
+      "slot": "Greaves",
+      "grade": 1,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "56"
+        }
+      ],
+      "icon": "images/items/1737.png"
+    },
+    {
+      "id": 27003,
+      "name": "Iron Sword",
+      "set": "Iron",
+      "slot": "Sword",
+      "grade": 2,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "120"
+        }
+      ],
+      "icon": "images/items/1702.png"
+    },
+    {
+      "id": 27103,
+      "name": "Iron Armor",
+      "set": "Iron",
+      "slot": "Armor",
+      "grade": 2,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "960"
+        }
+      ],
+      "icon": "images/items/1714.png"
+    },
+    {
+      "id": 27203,
+      "name": "Iron Helmet",
+      "set": "Iron",
+      "slot": "Helmet",
+      "grade": 2,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "640"
+        }
+      ],
+      "icon": "images/items/1726.png"
+    },
+    {
+      "id": 27303,
+      "name": "Iron Greaves",
+      "set": "Iron",
+      "slot": "Greaves",
+      "grade": 2,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "80"
+        }
+      ],
+      "icon": "images/items/1738.png"
+    },
+    {
+      "id": 27005,
+      "name": "Diamond Sword",
+      "set": "Diamond",
+      "slot": "Sword",
+      "grade": 3,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "360"
+        }
+      ],
+      "icon": "images/items/1704.png"
+    },
+    {
+      "id": 27105,
+      "name": "Diamond Armor",
+      "set": "Diamond",
+      "slot": "Armor",
+      "grade": 3,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "2,460"
+        }
+      ],
+      "icon": "images/items/1716.png"
+    },
+    {
+      "id": 27205,
+      "name": "Diamond Helmet",
+      "set": "Diamond",
+      "slot": "Helmet",
+      "grade": 3,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "1,640"
+        }
+      ],
+      "icon": "images/items/1728.png"
+    },
+    {
+      "id": 27305,
+      "name": "Diamond Greaves",
+      "set": "Diamond",
+      "slot": "Greaves",
+      "grade": 3,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "240"
+        }
+      ],
+      "icon": "images/items/1740.png"
+    },
+    {
+      "id": 27006,
+      "name": "Nano Sword",
+      "set": "Nano",
+      "slot": "Sword",
+      "grade": 4,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "540"
+        }
+      ],
+      "icon": "images/items/1705.png"
+    },
+    {
+      "id": 27106,
+      "name": "Nano Armor",
+      "set": "Nano",
+      "slot": "Armor",
+      "grade": 4,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "4,090"
+        }
+      ],
+      "icon": "images/items/1717.png"
+    },
+    {
+      "id": 27206,
+      "name": "Nano Helmet",
+      "set": "Nano",
+      "slot": "Helmet",
+      "grade": 4,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "2,710"
+        }
+      ],
+      "icon": "images/items/1729.png"
+    },
+    {
+      "id": 27306,
+      "name": "Nano Greaves",
+      "set": "Nano",
+      "slot": "Greaves",
+      "grade": 4,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "360"
+        }
+      ],
+      "icon": "images/items/1741.png"
+    },
+    {
+      "id": 27007,
+      "name": "Waveguide Sword",
+      "set": "Waveguide",
+      "slot": "Sword",
+      "grade": 5,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "1,040"
+        }
+      ],
+      "icon": "images/items/1706.png"
+    },
+    {
+      "id": 27107,
+      "name": "Waveguide Armor",
+      "set": "Waveguide",
+      "slot": "Armor",
+      "grade": 5,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "8,620"
+        }
+      ],
+      "icon": "images/items/1718.png"
+    },
+    {
+      "id": 27207,
+      "name": "Waveguide Helmet",
+      "set": "Waveguide",
+      "slot": "Helmet",
+      "grade": 5,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "5,780"
+        }
+      ],
+      "icon": "images/items/1730.png"
+    },
+    {
+      "id": 27307,
+      "name": "Waveguide Greaves",
+      "set": "Waveguide",
+      "slot": "Greaves",
+      "grade": 5,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "720"
+        }
+      ],
+      "icon": "images/items/1742.png"
+    },
+    {
+      "id": 27008,
+      "name": "Pulse Sword",
+      "set": "Pulse",
+      "slot": "Sword",
+      "grade": 6,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "1,580"
+        }
+      ],
+      "icon": "images/items/1707.png"
+    },
+    {
+      "id": 27108,
+      "name": "Pulse Armor",
+      "set": "Pulse",
+      "slot": "Armor",
+      "grade": 6,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "14,200"
+        }
+      ],
+      "icon": "images/items/1719.png"
+    },
+    {
+      "id": 27208,
+      "name": "Pulse Helmet",
+      "set": "Pulse",
+      "slot": "Helmet",
+      "grade": 6,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "9,800"
+        }
+      ],
+      "icon": "images/items/1731.png"
+    },
+    {
+      "id": 27308,
+      "name": "Pulse Greaves",
+      "set": "Pulse",
+      "slot": "Greaves",
+      "grade": 6,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "1,040"
+        }
+      ],
+      "icon": "images/items/1743.png"
+    },
+    {
+      "id": 27009,
+      "name": "Quantum Sword",
+      "set": "Quantum",
+      "slot": "Sword",
+      "grade": 7,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "2,760"
+        }
+      ],
+      "icon": "images/items/1708.png"
+    },
+    {
+      "id": 27109,
+      "name": "Quantum Armor",
+      "set": "Quantum",
+      "slot": "Armor",
+      "grade": 7,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "30,340"
+        }
+      ],
+      "icon": "images/items/1720.png"
+    },
+    {
+      "id": 27209,
+      "name": "Quantum Helmet",
+      "set": "Quantum",
+      "slot": "Helmet",
+      "grade": 7,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "20,660"
+        }
+      ],
+      "icon": "images/items/1732.png"
+    },
+    {
+      "id": 27309,
+      "name": "Quantum Greaves",
+      "set": "Quantum",
+      "slot": "Greaves",
+      "grade": 7,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "1,840"
+        }
+      ],
+      "icon": "images/items/1744.png"
+    },
+    {
+      "id": 27010,
+      "name": "Entropy Sword",
+      "set": "Entropy",
+      "slot": "Sword",
+      "grade": 8,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "3,640"
+        }
+      ],
+      "icon": "images/items/1709.png"
+    },
+    {
+      "id": 27110,
+      "name": "Entropy Armor",
+      "set": "Entropy",
+      "slot": "Armor",
+      "grade": 8,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "50,320"
+        }
+      ],
+      "icon": "images/items/1721.png"
+    },
+    {
+      "id": 27210,
+      "name": "Entropy Helmet",
+      "set": "Entropy",
+      "slot": "Helmet",
+      "grade": 8,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "32,680"
+        }
+      ],
+      "icon": "images/items/1733.png"
+    },
+    {
+      "id": 27310,
+      "name": "Entropy Greaves",
+      "set": "Entropy",
+      "slot": "Greaves",
+      "grade": 8,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "2,340"
+        }
+      ],
+      "icon": "images/items/1745.png"
+    },
+    {
+      "id": 27011,
+      "name": "Fission Sword",
+      "set": "Fission",
+      "slot": "Sword",
+      "grade": 9,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "5,240"
+        }
+      ],
+      "icon": "images/items/1710.png"
+    },
+    {
+      "id": 27111,
+      "name": "Fission Armor",
+      "set": "Fission",
+      "slot": "Armor",
+      "grade": 9,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "101,200"
+        }
+      ],
+      "icon": "images/items/1722.png"
+    },
+    {
+      "id": 27211,
+      "name": "Fission Helmet",
+      "set": "Fission",
+      "slot": "Helmet",
+      "grade": 9,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "67,400"
+        }
+      ],
+      "icon": "images/items/1734.png"
+    },
+    {
+      "id": 27311,
+      "name": "Fission Greaves",
+      "set": "Fission",
+      "slot": "Greaves",
+      "grade": 9,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "3,400"
+        }
+      ],
+      "icon": "images/items/1746.png"
+    },
+    {
+      "id": 27012,
+      "name": "Oblivion Sword",
+      "set": "Oblivion",
+      "slot": "Sword",
+      "grade": 10,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "7,200"
+        }
+      ],
+      "icon": "images/items/1711.png"
+    },
+    {
+      "id": 27112,
+      "name": "Oblivion Armor",
+      "set": "Oblivion",
+      "slot": "Armor",
+      "grade": 10,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "144,000"
+        }
+      ],
+      "icon": "images/items/1723.png"
+    },
+    {
+      "id": 27212,
+      "name": "Oblivion Helmet",
+      "set": "Oblivion",
+      "slot": "Helmet",
+      "grade": 10,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "96,000"
+        }
+      ],
+      "icon": "images/items/1735.png"
+    },
+    {
+      "id": 27312,
+      "name": "Oblivion Greaves",
+      "set": "Oblivion",
+      "slot": "Greaves",
+      "grade": 10,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "4,800"
+        }
+      ],
+      "icon": "images/items/1747.png"
+    },
+    {
+      "id": 27013,
+      "name": "Energy Sword",
+      "set": "Energy T1",
+      "slot": "Sword",
+      "grade": 11,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "10,080"
+        }
+      ],
+      "icon": "images/items/1712.png"
+    },
+    {
+      "id": 27113,
+      "name": "Energy Armor",
+      "set": "Energy T1",
+      "slot": "Armor",
+      "grade": 11,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "201,600"
+        }
+      ],
+      "icon": "images/items/1724.png"
+    },
+    {
+      "id": 27213,
+      "name": "Energy Helmet",
+      "set": "Energy T1",
+      "slot": "Helmet",
+      "grade": 11,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "134,400"
+        }
+      ],
+      "icon": "images/items/1736.png"
+    },
+    {
+      "id": 27313,
+      "name": "Energy Greaves",
+      "set": "Energy T1",
+      "slot": "Greaves",
+      "grade": 11,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "6,720"
+        }
+      ],
+      "icon": "images/items/1748.png"
+    },
+    {
+      "id": 27014,
+      "name": "Energy Sword",
+      "set": "Energy T2",
+      "slot": "Sword",
+      "grade": 12,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "12,000"
+        }
+      ],
+      "icon": "images/items/1712.png"
+    },
+    {
+      "id": 27114,
+      "name": "Energy Armor",
+      "set": "Energy T2",
+      "slot": "Armor",
+      "grade": 12,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "240,000"
+        }
+      ],
+      "icon": "images/items/1724.png"
+    },
+    {
+      "id": 27214,
+      "name": "Energy Helmet",
+      "set": "Energy T2",
+      "slot": "Helmet",
+      "grade": 12,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "160,000"
+        }
+      ],
+      "icon": "images/items/1736.png"
+    },
+    {
+      "id": 27314,
+      "name": "Energy Greaves",
+      "set": "Energy T2",
+      "slot": "Greaves",
+      "grade": 12,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "8,000"
+        }
+      ],
+      "icon": "images/items/1748.png"
+    },
+    {
+      "id": 27015,
+      "name": "Energy Sword",
+      "set": "Energy T3",
+      "slot": "Sword",
+      "grade": 13,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "15,000"
+        }
+      ],
+      "icon": "images/items/1771.png"
+    },
+    {
+      "id": 27115,
+      "name": "Energy Armor",
+      "set": "Energy T3",
+      "slot": "Armor",
+      "grade": 13,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "280,000"
+        }
+      ],
+      "icon": "images/items/1772.png"
+    },
+    {
+      "id": 27215,
+      "name": "Energy Helmet",
+      "set": "Energy T3",
+      "slot": "Helmet",
+      "grade": 13,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "200,000"
+        }
+      ],
+      "icon": "images/items/1773.png"
+    },
+    {
+      "id": 27315,
+      "name": "Energy Greaves",
+      "set": "Energy T3",
+      "slot": "Greaves",
+      "grade": 13,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "10,000"
+        }
+      ],
+      "icon": "images/items/1774.png"
+    }
+  ],
+  "origems": [
+    {
+      "name": "Apocalypse",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "Skills additionally cause <color=#FFFFFF>50%</color> true damage, ignoring Armor."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "Skills additionally cause twice <color=#FFFFFF>50%</color> true damage, ignoring Armor."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "Skills additionally cause three times <color=#FFFFFF>50%</color> true damage, ignoring Armor. When the target has Shield, skills additionally cause <color=#FFFFFF>150%</color> true damage, ignoring Armor."
+        }
+      ],
+      "icon": "images/items/8003.png"
+    },
+    {
+      "name": "Banshee",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "<color=#FFFFFF>40%</color> chance to counterattack, dealing damage equal to <color=#FFFFFF>25%</color> of the damage taken."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "<color=#FFFFFF>50%</color> chance to counterattack, dealing damage equal to <color=#FFFFFF>40%</color> of the damage taken."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "<color=#FFFFFF>60%</color> chance to counterattack, dealing damage equal to <color=#FFFFFF>50%</color> of the damage taken. When HP is below <color=#FFFFFF>25%</color>, recover <color=#FFFFFF>25%</color> HP(trigger once only)."
+        }
+      ],
+      "icon": "images/items/8001.png"
+    },
+    {
+      "name": "Benediction",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "When the wearer or front-row allies' HP first drops below <color=#FFFFFF>50%</color>, grants a shield equal to <color=#FFFFFF>5%</color> of the wearer's Max HP (up to 2 stacks)."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "When the wearer or front-row allies' HP first drops below <color=#FFFFFF>50%</color>, grants a shield equal to <color=#FFFFFF>10%</color> of the wearer's Max HP (up to 2 stacks)."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "When the wearer or front-row allies' HP first drops below <color=#FFFFFF>50%</color>, grants a shield equal to <color=#FFFFFF>20%</color> of the wearer's Max HP (up to 2 stacks)."
+        }
+      ],
+      "icon": "images/items/8023.png"
+    },
+    {
+      "name": "Curse",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 2,
+          "text": "Skill Damage +<color=#FFFFFF>6%</color>"
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 2,
+          "text": "Skill Damage +<color=#FFFFFF>15%</color>"
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 2,
+          "text": "Skill Damage +<color=#FFFFFF>30%</color>"
+        }
+      ],
+      "icon": "images/items/8006.png"
+    },
+    {
+      "name": "Darkthorn",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "Deals extra DMG equal to <color=#FFFFFF>100%</color> of ATK to one target when launching basic attacks or skill attacks, with a <color=#FFFFFF>40%</color> chance to deal extra DMG equal to <color=#FFFFFF>200%</color> of ATK instead."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "Deals extra DMG equal to <color=#FFFFFF>200%</color> of ATK to one target when launching basic attacks or skill attacks, with a <color=#FFFFFF>40%</color> chance to deal extra DMG equal to <color=#FFFFFF>400%</color> of ATK instead."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "Deals extra DMG equal to <color=#FFFFFF>300%</color> of ATK to one target when launching basic attacks or skill attacks, with a <color=#FFFFFF>40%</color> chance to deal extra DMG equal to <color=#FFFFFF>600%</color> of ATK instead. After killing an enemy, recovers <color=#FFFFFF>20%</color> HP and permanently gains <color=#FFFFFF>10%</color> DMG (stacking up to 6 times)."
+        }
+      ],
+      "icon": "images/items/8014.png"
+    },
+    {
+      "name": "Dominator",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "Basic attacks deal damage equal to <color=#FFFFFF>3%</color> of target's max HP(The maximum damage is no more than <color=#FFFFFF>300%</color> of ATK)"
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "Basic attacks deal damage equal to <color=#FFFFFF>6%</color> of target's max HP(The maximum damage is no more than <color=#FFFFFF>600%</color> of ATK)"
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "Basic attacks deal damage equal to <color=#FFFFFF>8%</color> of target's max HP(The maximum damage is no more than <color=#FFFFFF>800%</color> of ATK), deal extra <color=#FFFFFF>100%</color> of ATK to the target with lowest health percentage."
+        }
+      ],
+      "icon": "images/items/8002.png"
+    },
+    {
+      "name": "Evolution",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 2,
+          "text": "HP +<color=#FFFFFF>4%</color>"
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 2,
+          "text": "HP +<color=#FFFFFF>10%</color>"
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 2,
+          "text": "HP +<color=#FFFFFF>20%</color>"
+        }
+      ],
+      "icon": "images/items/8005.png"
+    },
+    {
+      "name": "Guardian",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "When ally heroes take damage for a total of <color=#FFFFFF>10</color> times, the bearer takes <color=#FFFFFF>4%</color> less damage for <color=#FFFFFF>2</color> rounds (triggers up to <color=#FFFFFF>5</color> times simultaneously)."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "When ally heroes take damage for a total of <color=#FFFFFF>10</color> times, the bearer takes <color=#FFFFFF>8%</color> less damage for <color=#FFFFFF>2</color> rounds (triggers up to <color=#FFFFFF>5</color> times simultaneously)."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "When ally heroes take damage for a total of <color=#FFFFFF>10</color> times, the bearer takes <color=#FFFFFF>10%</color> less damage for <color=#FFFFFF>2</color> rounds (triggers up to <color=#FFFFFF>5</color> times simultaneously).When ally heroes take damage for a total of <color=#FFFFFF>30</color> times, place a shield equal to <color=#FFFFFF>250%</color> of ATK for allies in the same row (triggers up to <color=#FFFFFF>once</color> per round)."
+        }
+      ],
+      "icon": "images/items/8012.png"
+    },
+    {
+      "name": "Howling",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "At the start of battle, DMG dealt by Follow-ups, Counterattacks, and controllable passive skills increases by <color=#FFFFFF>10%</color>."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "At the start of battle, DMG dealt by Follow-ups, Counterattacks, and controllable passive skills increases by <color=#FFFFFF>20%</color>."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "At the start of battles, DMG dealt by Follow-ups, Counterattacks, and controllable passive skills increases by <color=#FFFFFF>30%</color>. Upon using a basic attack and active skill, the DMG above increases by an additional <color=#FFFFFF>30%</color> in the current round (unstackable)."
+        }
+      ],
+      "icon": "images/items/8019.png"
+    },
+    {
+      "name": "Immolation",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "Applies 1 stack of Flammable to targets for 5 rounds when launching basic attacks or skill attacks, stacking up to 10 times per target. At the end of each round, burns all enemies affected by Flammable. Each stack of Flammable deals DMG equal to <color=#FFFFFF>40%</color> of ATK."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "Applies 1 stack of Flammable to targets for 5 rounds when launching basic attacks or skill attacks, stacking up to 10 times per target. At the end of each round, burns all enemies affected by Flammable. Each stack of Flammable deals DMG equal to <color=#FFFFFF>50%</color> of ATK."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "Applies 1 stack of Flammable to targets until the end of the battle when launching basic attacks or skill attacks stacking up to 10 times per target. At the end of each round, applies 1 extra stack of Flammable to all enemies and burns all enemies affected by Flammable. Each stack of Flammable deals DMG equal to <color=#FFFFFF>60%</color> of ATK."
+        }
+      ],
+      "icon": "images/items/8016.png"
+    },
+    {
+      "name": "Judgement",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 2,
+          "text": "ATK +<color=#FFFFFF>4%</color>"
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 2,
+          "text": "ATK +<color=#FFFFFF>10%</color>"
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 2,
+          "text": "ATK +<color=#FFFFFF>20%</color>"
+        }
+      ],
+      "icon": "images/items/8004.png"
+    },
+    {
+      "name": "Mirage",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "Gains <color=#FFFFFF>3</color> stacks of Mirage Energy at the start of battle. Whenever attacked, consumes 1 stack of Mirage Energy to withstand <color=#FFFFFF>20%</color> of damage (including true damage)."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "Gains <color=#FFFFFF>4</color> stacks of Mirage Energy at the start of battle. Whenever attacked, consumes 1 stack of Mirage Energy to withstand <color=#FFFFFF>25%</color> of damage (including true damage)."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "Gains <color=#FFFFFF>5</color> stacks of Mirage Energy at the start of battle. Whenever attacked, consumes 1 stack of Mirage Energy to withstand <color=#FFFFFF>30%</color> of damage (including true damage). Gains <color=#FFFFFF>1</color> stack of Mirage Energy at the start and the end of each round, up to 5 stacks."
+        }
+      ],
+      "icon": "images/items/8018.png"
+    },
+    {
+      "name": "Nihility",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "The wearer's Anomalous Damage increases by <color=#FFFFFF>20%</color>."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "The wearer's Anomalous Damage increases by <color=#FFFFFF>25%</color>. After inflicting <color=#FFFFFF>10</color> stacks of Anomalous Effect on enemies in a single round, the wearer gains Whirlpool. When any enemy is detonated, Whirlpool is consumed to deal an extra <color=#FFFFFF>120%</color> ATK damage to all enemies. Whirlpool will be automatically triggered at the end of the round."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "The wearer's Anomalous Damage increases by <color=#FFFFFF>45%</color>. After inflicting <color=#FFFFFF>10</color> stacks of Anomalous Effect on enemies in a single round, the wearer gains Whirlpool. When any enemy is detonated, Whirlpool is consumed to deal an extra <color=#FFFFFF>250%</color> ATK damage to all enemies. Whirlpool will be automatically triggered at the end of the round."
+        }
+      ],
+      "icon": "images/items/8024.png"
+    },
+    {
+      "name": "Onslaught",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "Gains Esperian Overload at the beginning of each turn. When taking action, deals damage equal to <color=#FFFFFF>100%</color> of ATK to an additional enemy. Fades when the turn ends."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "At the beginning of each turn, gain Esperian Overload. When taking action, deals damage equal to <color=#FFFFFF>100%</color> of ATK to an additional enemy. The energy will overload once when skills hit a target, and will fade when the period ends (overloads up to 7 times)."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "At the beginning of each turn, gain Esperian Overload. When taking action, deals damage equal to <color=#FFFFFF>125%</color> of ATK to an additional enemy. The energy will overload once when skills hit a target. When the overload ends, unleashes a final strike that deals damage equal to <color=#FFFFFF>125%</color> of ATK (overloads up to 7 times)."
+        }
+      ],
+      "icon": "images/items/8013.png"
+    },
+    {
+      "name": "Phantom",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "At the start of battle, a Phantom appears to protect the wearer and disappears after taking 1 basic attack or skill attack, withstanding damage (including true damage) equal to <color=#FFFFFF>15%</color> of the wearer's Max HP at most for up to 1 round."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "At the start of battle, a Phantom appears to protect the wearer and disappears after taking 1 basic attack or skill attack, withstanding damage (including true damage) equal to <color=#FFFFFF>25%</color> of the wearer's Max HP at most for up to 1 round. At the start of battle, the Phantom additionally grants a shield that withstands damage (including true damage) equal to <color=#FFFFFF>20%</color> of the wearer's Max HP at most. The shield does not disappear after taking 1 basic attack or skill attack and lasts for 1 round."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "Phantom gains the ability to regenerate. At the start of each round, a Phantom appears to protect the wearer and disappears after taking 1 basic attack or skill attack, withstanding damage (including true damage) equal to <color=#FFFFFF>30%</color> of the wearer's Max HP at most for up to 1 round. At the start of battle, the Phantom additionally grants a shield that withstands damage (including true damage) equal to <color=#FFFFFF>30%</color> of the wearer's Max HP at most. The shield does not disappear after taking 1 basic attack or skill attack and lasts for 1 round."
+        }
+      ],
+      "icon": "images/items/8015.png"
+    },
+    {
+      "name": "Salvation",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "When the hero dies, he has <color=#FFFFFF>10%</color> chance to resurrect himself in next round with <color=#FFFFFF>20%</color> of his Max HP restored."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "When the hero dies, he has <color=#FFFFFF>18%</color> chance to resurrect himself in next round with <color=#FFFFFF>35%</color> of his Max HP restored."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "When the hero dies, he has <color=#FFFFFF>25%</color> chance to resurrect himself in next round with <color=#FFFFFF>50%</color> of his Max HP and <color=#FFFFFF>100</color> points of energy restored."
+        }
+      ],
+      "icon": "images/items/8008.png"
+    },
+    {
+      "name": "Samurai",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "There is <color=#FFFFFF>12%</color> chance to attack again after using basic attack. Applies extra effects."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "There is <color=#FFFFFF>25%</color> chance to attack again after using basic attack. Applies extra effects."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "There is <color=#FFFFFF>40%</color> chance to attack again after using basic attack. Applies extra effects."
+        }
+      ],
+      "icon": "images/items/8007.png"
+    },
+    {
+      "name": "Sanctuary",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "Reduces the wearer's HP loss by <color=#FFFFFF>10%</color>."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "Reduces the wearer's HP loss by <color=#FFFFFF>15%</color>. When an ally in the same column drops below <color=#FFFFFF>50%</color> HP, heals them for <color=#FFFFFF>10%</color> of the wearer's Max HP (only once per battle). HP loss reduction reduces from <color=#FFFFFF>15%</color> to <color=#FFFFFF>10%</color>."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "Reduces the wearer's HP loss by <color=#FFFFFF>25%</color>. When an ally in the same column drops below <color=#FFFFFF>50%</color> HP, heals them for <color=#FFFFFF>20%</color> of the wearer's Max HP (only once per battle). HP loss reduction reduces from <color=#FFFFFF>25%</color> to <color=#FFFFFF>20%</color>."
+        }
+      ],
+      "icon": "images/items/8022.png"
+    },
+    {
+      "name": "Sin",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 2,
+          "text": "Armor PEN +<color=#FFFFFF>8%</color>"
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 2,
+          "text": "Armor PEN +<color=#FFFFFF>15%</color>"
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 2,
+          "text": "Armor PEN +<color=#FFFFFF>30%</color>"
+        }
+      ],
+      "icon": "images/items/8009.png"
+    },
+    {
+      "name": "Truesight",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "At the beginning of every round, the wearer identifies a Fatal Weakness on <color=#FFFFFF>2</color> random enemies. The wearer's basic attack and main skill attack against enemies affected by Fatal Weakness deal true damage equal to <color=#FFFFFF>50%</color> of wearer's ATK and heal the wearer for <color=#FFFFFF>100%</color> of their ATK. Also triggers an additional recovery upon killing an enemy with a Weakness mark."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "At the beginning of every round, the wearer identifies a Fatal Weakness on <color=#FFFFFF>3</color> random enemies. The wearer's basic attack and main skill attack against enemies affected by Fatal Weakness deal true damage equal to <color=#FFFFFF>100%</color> of wearer's ATK and heal the wearer for <color=#FFFFFF>150%</color> of their ATK. Also triggers an additional recovery upon killing an enemy with a Weakness mark."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "At the beginning of every round, the wearer identifies a Fatal Weakness on <color=#FFFFFF>4</color> random enemies. The wearer's basic attack and main skill attack against enemies affected by Fatal Weakness deal true damage equal to <color=#FFFFFF>125%</color> of wearer's ATK and heal the wearer for <color=#FFFFFF>200%</color> of their ATK. Also has a <color=#FFFFFF>50%</color> chance to deal additional true damage equal to <color=#FFFFFF>125%</color> of wearer's ATK. Triggers an additional recovery upon killing an enemy with a Weakness mark."
+        }
+      ],
+      "icon": "images/items/8011.png"
+    },
+    {
+      "name": "Vine",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "When casting crowd-control skills, gain 1 stack of Vine for each unit that was not successfully controlled. When reaching 6 stacks of Vine, all 6 stacks are used to deal <color=#FFFFFF>100%</color> ATK as DMG to a random enemy. Additionally, there is a <color=#FFFFFF>40%</color> chance that the enemy will be entangled for 2 rounds. While this effect is active, Vine stacks cannot be gained."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "When casting crowd-control skills, gain 1 stack of Vine for each unit that was not successfully controlled. When reaching 6 stacks of Vine, all 6 stacks are used to deal <color=#FFFFFF>100%</color> ATK as DMG to a random enemy. Additionally, there is an <color=#FFFFFF>80%</color> chance that the enemy will be entangled for 2 rounds. While this effect is active, Vine stacks cannot be gained."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "When casting crowd-control skills, gain 1 stack of Vine for each unit that was not successfully controlled. When reaching 6 stacks of Vine, all 6 stacks are used to deal <color=#FFFFFF>100%</color> ATK as DMG to a random enemy. Additionally, there is a <color=#FFFFFF>100%</color> chance that the enemy will be entangled for 2 rounds. While this effect is active, Vine stacks cannot be gained. Heal <color=#FFFFFF>20%</color> of max HP for each unit successfully controlled."
+        }
+      ],
+      "icon": "images/items/8017.png"
+    },
+    {
+      "name": "Wingblades",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 4,
+          "text": "At the start of the battle, grants Wingblades to ally (other than the wearer) in the same column. Whenever the affected ally hits no more than 3 enemies with a basic attack or an active skill, Wingblades triggers <color=#FFFFFF>5</color> additional random single-target attacks, each dealing DMG equal to <color=#FFFFFF>30%</color> of that ally's ATK."
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 4,
+          "text": "At the start of the battle, grants Wingblades to ally (other than the wearer) in the same column. Whenever the affected ally hits no more than 3 enemies with a basic attack or an active skill, Wingblades triggers <color=#FFFFFF>6</color> additional random single-target attacks, each dealing DMG equal to <color=#FFFFFF>40%</color> of that ally's ATK."
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 4,
+          "text": "At the start of the battle, grants Wingblades to ally (other than the wearer) in the same column. Whenever the affected ally hits no more than 3 enemies with a basic attack or an active skill, Wingblades triggers <color=#FFFFFF>7</color> additional random single-target attacks, each dealing DMG equal to <color=#FFFFFF>50%</color> of that ally's ATK.\nThe wings' protection records the damage taken by the wearer and reduces it by <color=#FFFFFF>20%</color> until the total recorded damage exceeds <color=#FFFFFF>100%</color> of the wearer's Max HP."
+        }
+      ],
+      "icon": "images/items/8020.png"
+    },
+    {
+      "name": "Zealot",
+      "description": "",
+      "bonuses": [
+        {
+          "level": "Lv.1",
+          "requirement": "Equip 1-Star Origems.",
+          "count": 2,
+          "text": "Crit+<color=#FFFFFF>8%</color>"
+        },
+        {
+          "level": "Lv.2",
+          "requirement": "Equip 4-Star Origems.",
+          "count": 2,
+          "text": "Crit+<color=#FFFFFF>15%</color>"
+        },
+        {
+          "level": "Lv.3",
+          "requirement": "Equip 6-Star Origems.",
+          "count": 2,
+          "text": "Crit+<color=#FFFFFF>30%</color>"
+        }
+      ],
+      "icon": "images/items/8010.png"
+    }
+  ],
+  "artifacts": [
+    {
+      "id": 27625,
+      "name": "Commander Chip K",
+      "description": "Basic attacks increase Crit.",
+      "level": 25,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "Crit DMG",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "",
+      "echo": [],
+      "effects": [
+        {
+          "level": 5,
+          "label": "【+5 to unlock】",
+          "description": "Basic attacks increase your Crit by 10% in the next round."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Basic attacks increase your Crit by 15% in the next round."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Basic attacks increase your Crit by 18% in the next round. If no Critical Attack is dealt in the current round, your Crit increases by another 18% in the next round."
+        },
+        {
+          "level": 25,
+          "label": "【+25 to unlock】",
+          "description": "Basic attacks increase your Crit by 20% in the next round. If no Critical Attack is dealt in the current round, your Crit and Crit DMG increases by another 20% in the next round."
+        }
+      ],
+      "info": "A K-type chip, the driving power behind the \"Commander\" flying mecha, boasts computing power that surpasses limits.",
+      "icon": "images/items/27625.png",
+      "art": "images/items/art/1825.png",
+      "set": "Techno Chip"
+    },
+    {
+      "id": 27626,
+      "name": "Coordination Chip V",
+      "description": "Attacks deal damage equal to the wearer's Max HP.",
+      "level": 25,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "Effect Hit",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "",
+      "echo": [],
+      "effects": [
+        {
+          "level": 5,
+          "label": "【+5 to unlock】",
+          "description": "Basic attacks or skill attacks deal additional damage to the target, equal to 4% of the wearer's Max HP."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Basic attacks or skill attacks deal additional damage to the target, equal to 5% of the wearer's Max HP."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Basic attacks or skill attacks deal additional damage to the target, equal to 6% of the wearer's Max HP. When the round is over, the wearer recovers 5% of their maximum HP for every controlled target on the battlefield."
+        },
+        {
+          "level": 25,
+          "label": "【+25 to unlock】",
+          "description": "Basic attacks or skill attacks deal additional damage to the target, equal to 8% of the wearer's Max HP. When the round is over, the wearer recovers 8% of their maximum HP for every controlled target on the battlefield."
+        }
+      ],
+      "info": "A highly integrated V-type chip developed for smart robots, elevating the overall system performance.",
+      "icon": "images/items/27626.png",
+      "art": "images/items/art/1826.png",
+      "set": "Techno Chip"
+    },
+    {
+      "id": 27627,
+      "name": "Defense Chip E",
+      "description": "Increases DMG Mitigation when under attack.",
+      "level": 25,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "Armor",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "",
+      "echo": [],
+      "effects": [
+        {
+          "level": 5,
+          "label": "【+5 to unlock】",
+          "description": "When receiving basic attacks or skill attacks, grant 5% of your DMG Mitigation (lasts for 1 round and can be triggered up to twice every round)."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "When receiving basic attacks or skill attacks, grants 8% of your DMG Mitigation (lasts for 1 round and can be triggered up to twice every round)."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "When receiving basic attacks or skill attacks, grants 12% of your DMG Mitigation (lasts for 1 round and can be triggered up to twice every round). Additionally, gain a shield equal to 8% of Max HP (lasts for 1 round and up to 1 shield can be gained every round)."
+        },
+        {
+          "level": 25,
+          "label": "【+25 to unlock】",
+          "description": "When receiving basic attacks or skill attacks, grant 15% of your DMG Mitigation (lasts for 1 round and can be triggered up to twice every round); and gain a shield equal to 8% of Max HP (lasts for 1 round and up to 2 shields can be gained every round)."
+        }
+      ],
+      "info": "An E-type chip with low power consumption, engineered for defensive robots—imperfect yet remarkably efficient.",
+      "icon": "images/items/27627.png",
+      "art": "images/items/art/1827.png",
+      "set": "Techno Chip"
+    },
+    {
+      "id": 27601,
+      "name": "Energy Chip G",
+      "description": "Get energy at the end of each round.",
+      "level": 25,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "Speed",
+          "value": "30"
+        }
+      ],
+      "echoTitle": "",
+      "echo": [],
+      "effects": [
+        {
+          "level": 5,
+          "label": "【+5 to unlock】",
+          "description": "Gain 10 energy at the end of each round"
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Gain 15 energy at the end of each round"
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Gain 15 energy at the end of each round, and gain 30 energy at the beginning of a battle"
+        },
+        {
+          "level": 25,
+          "label": "【+25 to unlock】",
+          "description": "Gain 20 energy at the end of each round, and gain 50 energy at the beginning of a battle"
+        }
+      ],
+      "info": "Type-G chip used for energy conversion. Improves energy utilization.",
+      "icon": "images/items/27601.png",
+      "art": "images/items/art/1801.png",
+      "set": "Techno Chip"
+    },
+    {
+      "id": 27628,
+      "name": "Lock-On Chip A",
+      "description": "Boosts CC success rate.",
+      "level": 25,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "HP",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "",
+      "echo": [],
+      "effects": [
+        {
+          "level": 5,
+          "label": "【+5 to unlock】",
+          "description": "Increases Effect Hit by 10%."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Increases Effect Hit by 15%."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Increases Effect Hit by 20%. If the target is not inflicted by CC effects at the end of this round, reduces their Effect Res by 8% next round for 1 round."
+        },
+        {
+          "level": 25,
+          "label": "【+25 to unlock】",
+          "description": "Increases Effect Hit by 25%. If the target is not inflicted by CC effects at the end of this round, reduces their Effect Res by 15% next round for 1 round."
+        }
+      ],
+      "info": "A Type-A chip used for targeting, enhancing crowd control.",
+      "icon": "images/items/27628.png",
+      "art": "images/items/art/1828.png",
+      "set": "Techno Chip"
+    },
+    {
+      "id": 27605,
+      "name": "Medic Chip L",
+      "description": "Increase the recovery effect.",
+      "level": 25,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "",
+      "echo": [],
+      "effects": [
+        {
+          "level": 5,
+          "label": "【+5 to unlock】",
+          "description": "Restoring effect increases by 10%"
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Restoring effect increases by 15%"
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Restoring effect increases by 15%. When HP is lower than 30% of max HP, restoring effect increases by 30%."
+        },
+        {
+          "level": 25,
+          "label": "【+25 to unlock】",
+          "description": "Restoring effect increases by 20%. When HP is lower than 40% of max HP, restoring effect increases by 40%."
+        }
+      ],
+      "info": "Type-L chip used for therapeutic assistance. Improves healing effect.",
+      "icon": "images/items/27605.png",
+      "art": "images/items/art/1805.png",
+      "set": "Techno Chip"
+    },
+    {
+      "id": 27606,
+      "name": "Regen Chip U",
+      "description": "Recover HP at the end of each round.",
+      "level": 25,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "HP",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "",
+      "echo": [],
+      "effects": [
+        {
+          "level": 5,
+          "label": "【+5 to unlock】",
+          "description": "Restores 5% of the max HP at the end of each round"
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Restores 10% of the max HP at the end of each round"
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Restores 10% of the max HP at the end of each round, and restores 20% of the max HP at the end of every 5 rounds"
+        },
+        {
+          "level": 25,
+          "label": "【+25 to unlock】",
+          "description": "Restores 15% of the max HP at the end of each round, and restores 20% of the max HP at the end of every 5 rounds"
+        }
+      ],
+      "info": "Type-U chip used for self-healing. Mends the user's wounds automatically.",
+      "icon": "images/items/27606.png",
+      "art": "images/items/art/1806.png",
+      "set": "Techno Chip"
+    },
+    {
+      "id": 27602,
+      "name": "Technique Chip I",
+      "description": "When a Critical Attack is triggered, the damage of basic attacks will increase for a short while.",
+      "level": 25,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "Crit",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "",
+      "echo": [],
+      "effects": [
+        {
+          "level": 5,
+          "label": "【+5 to unlock】",
+          "description": "After landing a critical hit, basic attack damage increases by 10% for 2 rounds. Cannot be stacked."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "After landing a critical hit, basic attack damage increases by 20% for 2 rounds. Cannot be stacked."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "After landing a critical hit, basic attack damage increases by 20% for 2 rounds. Basic attack damage can increase by at most 60%"
+        },
+        {
+          "level": 25,
+          "label": "【+25 to unlock】",
+          "description": "After landing a critical hit, basic attack damage increases by 25% for 2 rounds. Basic attack damage can increase by at most 100%"
+        }
+      ],
+      "info": "Type-I chip used for technical assistance. Predicts incoming attacks.",
+      "icon": "images/items/27602.png",
+      "art": "images/items/art/1802.png",
+      "set": "Techno Chip"
+    },
+    {
+      "id": 27604,
+      "name": "Valor Chip M",
+      "description": "Increase ATK and Crit chance according to HP.",
+      "level": 25,
+      "stats": [
+        {
+          "name": "Skill DMG",
+          "value": "30%"
+        },
+        {
+          "name": "Crit DMG",
+          "value": "60%"
+        }
+      ],
+      "echoTitle": "",
+      "echo": [],
+      "effects": [
+        {
+          "level": 5,
+          "label": "【+5 to unlock】",
+          "description": "ATK increases by 5% when the current HP is more than 80% of max HP."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "ATK increases by 9% when the current HP is more than 80% of max HP."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "ATK increases by 11% and Crit chance increases by 5% when the current HP is more than 80% of max HP"
+        },
+        {
+          "level": 25,
+          "label": "【+25 to unlock】",
+          "description": "ATK increases by 15% and Crit chance increases by 15% when the current HP is more than 80% of max HP"
+        }
+      ],
+      "info": "Type-M chip used to eliminate fear. Maintains the best performance.",
+      "icon": "images/items/27604.png",
+      "art": "images/items/art/1804.png",
+      "set": "Techno Chip"
+    },
+    {
+      "id": 27603,
+      "name": "Zeal Chip B",
+      "description": "Increase ATK at the end of each round.",
+      "level": 25,
+      "stats": [
+        {
+          "name": "Armor",
+          "value": "30%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "",
+      "echo": [],
+      "effects": [
+        {
+          "level": 5,
+          "label": "【+5 to unlock】",
+          "description": "ATK increases by 2% at the end of each round"
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "ATK increases by 3% at the end of each round"
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "ATK increases by 4% at the end of each round. When there are less than 4 enemies, ATK increases by 10%"
+        },
+        {
+          "level": 25,
+          "label": "【+25 to unlock】",
+          "description": "ATK increases by 5% at the end of each round. When there are less than 4 enemies, ATK increases by 20%"
+        }
+      ],
+      "info": "Type-B chip used to increase power. Stimulates the user's potential.",
+      "icon": "images/items/27603.png",
+      "art": "images/items/art/1803.png",
+      "set": "Techno Chip"
+    },
+    {
+      "id": 27607,
+      "name": "All-Around Pauldron",
+      "description": "Increase the DMG mitigation for all allies.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "HP",
+          "value": "35%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "HP",
+          "value": "3%"
+        },
+        {
+          "name": "HP",
+          "value": "3%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Increase the DMG mitigation by 7% for all allies."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Increase the DMG mitigation by 10% for all allies."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Increase the DMG mitigation by 15% for all allies."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Increase the DMG Mitigation by 18% for all allies, and remove 1 random stack of Anomalous Damage from all allies at the start of each round."
+        }
+      ],
+      "info": "The pauldron provides all-around defense both on the ground and in the air.",
+      "icon": "images/items/27607.png",
+      "art": "images/items/art/1807.png",
+      "set": "Almighty Unit"
+    },
+    {
+      "id": 27631,
+      "name": "Battle Support Robot",
+      "description": "Increases ATK of allies in the same row.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "HP",
+          "value": "35%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "HP",
+          "value": "3%"
+        },
+        {
+          "name": "HP",
+          "value": "3%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Grant an 8% ATK boost to you and allies in the same row."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Grant a 12% ATK boost to you and allies in the same row."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Grant a 16% ATK boost to you and allies in the same row."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Grant a 20% ATK boost to you and allies in the same row. Also, increase Armor Piercing by 10%."
+        }
+      ],
+      "info": "With autonomous intelligence, it provides decision recommendations based on battlefield dynamics, fostering seamless cooperation in combat.",
+      "icon": "images/items/27631.png",
+      "art": "images/items/art/1831.png",
+      "set": "Almighty Unit"
+    },
+    {
+      "id": 27608,
+      "name": "Deep Cover Cape",
+      "description": "Possible to immune all controlling effects.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "35%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "3%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "3%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Effect Res increased by 30%"
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Effect Res increased by 45%"
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Effect Res increased by 65%"
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Effect Res increased by 100%"
+        }
+      ],
+      "info": "The cloak helps the user move around covertly while resisting external interference.",
+      "icon": "images/items/27608.png",
+      "art": "images/items/art/1808.png",
+      "set": "Almighty Unit"
+    },
+    {
+      "id": 27638,
+      "name": "Endless Dynamo Rifle",
+      "description": "Crit DMG boosts upon basic attacks",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "Crit",
+          "value": "35%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "Crit",
+          "value": "3%"
+        },
+        {
+          "name": "Crit",
+          "value": "3%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Whenever the Artifact wearer or an ally launches a basic attack, the wearer gains a stack of mark. At the start of each round, all marks are consumed, each increasing the Artifact wearer's Crit DMG by 6% for that round."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Whenever the Artifact wearer or an ally launches a basic attack, the wearer gains a stack of mark. At the start of each round, all marks are consumed, each increasing the Artifact wearer's Crit DMG by 8% for that round."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Whenever the Artifact wearer or an ally launches a basic attack, the wearer gains a stack of mark. At the start of each round, all marks are consumed, each increasing the Artifact wearer's Crit DMG by 10% for that round."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Whenever the Artifact wearer or an ally launches a basic attack, the wearer gains a stack of mark. At the start of each round, all marks are consumed, each increasing the Artifact wearer's Crit DMG by 12% for that round. If more than 1 stack of mark is consumed, the wearer gains an additional 20% Armor PEN for that round."
+        }
+      ],
+      "info": "Firearm-type gear that greatly boosts combat ability and unleashes hidden potential enormously.",
+      "icon": "images/items/27638.png",
+      "art": "images/items/art/1838.png",
+      "set": "Almighty Unit"
+    },
+    {
+      "id": 27609,
+      "name": "Force Field Vest",
+      "description": "Get shield when using skills.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "HP",
+          "value": "35%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "HP",
+          "value": "3%"
+        },
+        {
+          "name": "HP",
+          "value": "3%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Using a skill grants a shield that withstands damage equal to 150% of the wearer's ATK."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Using a skill grants a shield that withstands damage equal to 200% of the wearer's ATK."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Using a skill grants a shield that withstands damage equal to 300% of the wearer's ATK."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Using a skill grants a shield that withstands damage equal to 350% of the wearer's ATK. Gains a shield that withstands damage equal to 300% of the wearer's ATK at the start of battle."
+        }
+      ],
+      "info": "This vest forms an energy force field shield around the wearer's body to defend against powerful attacks.",
+      "icon": "images/items/27609.png",
+      "art": "images/items/art/1809.png",
+      "set": "Almighty Unit"
+    },
+    {
+      "id": 27611,
+      "name": "Interference Boots",
+      "description": "Speed down your enemies.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "Dodge",
+          "value": "35%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "Dodge",
+          "value": "3%"
+        },
+        {
+          "name": "Dodge",
+          "value": "3%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "At the start of the battle, slow the fastest enemy heroes down by 30 speed."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "At the start of the battle, slow the 2 fastest enemy heroes down by 30 speed."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "At the start of the battle, slow the 3 fastest enemy heroes down by 30 speed."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "At the start of the battle, slow the 3 fastest enemy heroes down by 30 speed, reducing their armor by 15%."
+        }
+      ],
+      "info": "These boots can confuse enemies in battle, allowing the wearer to strike preemptively.",
+      "icon": "images/items/27611.png",
+      "art": "images/items/art/1811.png",
+      "set": "Almighty Unit"
+    },
+    {
+      "id": 27610,
+      "name": "Life Support System",
+      "description": "Recover HP when it is too low.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "35%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "35%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "HP",
+          "value": "3%"
+        },
+        {
+          "name": "HP",
+          "value": "3%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "3%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "3%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "When HP drops below 30% for the first time, quickly recover 30% of max HP."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "When HP drops below 30% for the first time, quickly recover 40% of max HP."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "When HP drops below 50% for the first time, quickly recover 50% of max HP."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Quickly recovers 60% of Max HP when HP drops below 50% for the first time. Quickly recovers 100% of Max HP when HP drops below 30%."
+        }
+      ],
+      "info": "The system assists the user in maintaining life by adjusting their biological status.",
+      "icon": "images/items/27610.png",
+      "art": "images/items/art/1810.png",
+      "set": "Almighty Unit"
+    },
+    {
+      "id": 27612,
+      "name": "Perception Goggles",
+      "description": "Increases ATK in every attack.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "Precision",
+          "value": "70%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "Precision",
+          "value": "6%"
+        },
+        {
+          "name": "Precision",
+          "value": "6%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Every attack increases the ATK of hero by 3%."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Every attack increases the ATK of hero by 5%."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Every attack increases the ATK of hero by 7%."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Every attack increases the hero 8% of ATK. Plus an additional 15% of ATK increase."
+        }
+      ],
+      "info": "These goggles strengthen the wearer's perception, allowing them to spot the enemy's weaknesses.",
+      "icon": "images/items/27612.png",
+      "art": "images/items/art/1812.png",
+      "set": "Almighty Unit"
+    },
+    {
+      "id": 27639,
+      "name": "Phase Armor Gauntlets",
+      "description": "Boosts DMG Mitigation for same-row heroes.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "HP",
+          "value": "35%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "ATK",
+          "value": "3%"
+        },
+        {
+          "name": "HP",
+          "value": "3%"
+        },
+        {
+          "name": "HP",
+          "value": "3%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "At the start of battle, same-row heroes gain 7 stacks of Phase Armor, each increases the bearer's DMG Mitigation by 2%, with 1 stack removed after each attack received."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "At the start of battle, same-row heroes gain 8 stacks of Phase Armor, each increases the bearer's DMG Mitigation by 3%, with 1 stack removed after each attack received."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "At the start of battle, same-row heroes gain 9 stacks of Phase Armor, each increases the bearer's DMG Mitigation by 4%, with 1 stack removed after each attack received."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "At the start of battle, same-row heroes gain 10 stacks of Phase Armor, each increases the bearer's DMG Mitigation by 4%, with 1 stack removed after each attack received. The first time any same-row hero's HP drops below 50%, they gain a shield equal to 30% of Max HP."
+        }
+      ],
+      "info": "Versatile mechanical gauntlets that enhance the team's protection and survivability.",
+      "icon": "images/items/27639.png",
+      "art": "images/items/art/1839.png",
+      "set": "Almighty Unit"
+    },
+    {
+      "id": 27633,
+      "name": "Antimatter Cloak",
+      "description": "Withstands damage taken.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "30%"
+        },
+        {
+          "name": "Crit Resistance",
+          "value": "40%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "HP",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "5%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "10%"
+        },
+        {
+          "name": "Crit Resistance",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "When damage taken is less than 5% of the wearer's Max HP, withstands 50% of the damage."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "When damage taken is less than 5% of the wearer's Max HP, withstands 60% of the damage."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "When damage taken is less than 5% of the wearer's Max HP, withstands 70% of the damage. When damage taken is less than 15% of the wearer's Max HP, withstands 30% of the damage."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "When damage taken is less than 5% of the wearer's Max HP, withstands 90% of the damage. When damage taken is less than 15% of the wearer's Max HP, withstands 50% of the damage. Shares 25% of the damage taken by all allies."
+        }
+      ],
+      "info": "Deities shared their cutting-edge technology on the colossal particle accelerator, capable of redirecting external destructive forces.",
+      "icon": "images/items/27633.png",
+      "art": "images/items/art/1833.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27624,
+      "name": "Blackhole Cannon",
+      "description": "Deals extra DMG when attacking.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "Crit",
+          "value": "30%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "Crit",
+          "value": "10%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Deals extra DMG equal to 40% of ATK when inflicting DMG on targets via basic attacks, skill attacks, pursuits, or counterattacks."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Deals extra DMG equal to 60% of ATK when inflicting DMG on targets via basic attacks, skill attacks, pursuits, or counterattacks."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Deals extra DMG equal to 80% of ATK when inflicting DMG on targets via basic attacks, skill attacks, pursuits, or counterattacks."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Deals extra DMG equal to 100% of ATK when inflicting DMG on targets via basic attacks, skill attacks, pursuits, or counterattacks. Every 4 DMG inflicts extra True DMG equal to 400% of ATK."
+        }
+      ],
+      "info": "A classified weapon, tailor-made for god slayer, crafted to fend off extraterrestrial intruders with the sheer power to annihilate everything.",
+      "icon": "images/items/27624.png",
+      "art": "images/items/art/1824.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27632,
+      "name": "Dark Energy Shield",
+      "description": "Deals more damage to enemies.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "10%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Cast a curse on all enemies at the start of the round, increasing their damage taken by 10% and reducing their shield strength by 20%. The curse lasts for 1 round (can be dispelled; the curse effect will be removed when the target's HP falls below 50%.)."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Cast a curse on all enemies at the start of the round, increasing their damage taken by 15% and reducing their shield strength by 25%. The curse lasts for 1 round (can be dispelled; the curse effect will be removed when the target's HP falls below 50%.)."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Cast a curse on all enemies at the start of the round, increasing their damage taken by 20% and reducing their shield strength by 30%. The curse lasts for 1 round (can be dispelled; the curse effect will be removed when the target's HP falls below 50%.)."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Cast a curse on all enemies at the start of the round, increasing their damage taken by 30% and reducing their shield strength by 50%. The curse lasts for 1 round (can be dispelled; the curse effect will be removed when the target's HP falls below 50%.). Additionally, when the wearer's HP falls below 50% for the first time, instantly restores 40% of Max HP, lasting for 2 rounds."
+        }
+      ],
+      "info": "Sporting a uniquely designed shielding mechanism, it absorbs and transforms dark energy, creating disruptions that are tough to analyze.",
+      "icon": "images/items/27632.png",
+      "art": "images/items/art/1832.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27621,
+      "name": "Distorted Light Bow",
+      "description": "Increases Crit DMG and grants a shield.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "HP",
+          "value": "35%"
+        },
+        {
+          "name": "Crit DMG",
+          "value": "40%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "10%"
+        },
+        {
+          "name": "Crit DMG",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "When HP falls below 50% for the first time, increase Crit DMG by 30% and gain a shield equal to 35% of Max HP."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "When HP falls below 50% for the first time, increase Crit DMG by 40% and gain a shield equal to 40% of Max HP."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "When HP falls below 50% for the first time, increase Crit DMG by 50% and gain a shield equal to 45% of Max HP."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "When HP falls below 50% for the first time, increases Crit DMG by 60% and gains a shield equal to 50% of Max HP. When taking fatal damage for the first time, becomes Invulnerable (immune to all damage) for the round and recovers 50% of Max HP."
+        }
+      ],
+      "info": "Crafted through the seamless fusion of cutting-edge light energy conversion, high-density rays, and dual-purpose barriers, this product excels in both offense and defense.",
+      "icon": "images/items/27621.png",
+      "art": "images/items/art/1821.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27614,
+      "name": "Electromagnetic Shield",
+      "description": "Turn damage into hero's HP.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "10%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Convert 20% of skill damage dealt into attacker's HP (Extra and true damage excluded)"
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Convert 30% of skill damage dealt into attacker's HP (Extra and true damage excluded)"
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Convert 40% of skill damage dealt into attacker's HP (Extra and true damage excluded)"
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Convert 50% of skill damage dealt into attacker's HP (Extra and true damage excluded), moreover, grants 20% Armor PEN."
+        }
+      ],
+      "info": "The EMP energy inside the shield has excellent penetrating power. Enemies' futile resistance will only make it worse for them.",
+      "icon": "images/items/27614.png",
+      "art": "images/items/art/1814.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27616,
+      "name": "Lightwave Exoskeleton",
+      "description": "Reflect damage when receiving damage.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "10%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Reflect 30% of enemies' damage."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Reflect 50% of enemies' damage."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Reflect 70% of enemies' damage."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Reflect 80% of enemies' damage. When the hero is under active attack, HP equaling 50% of the hero's ATK will be recovered."
+        }
+      ],
+      "info": "A combination of optical concealment, light energy defense, light wave reflection, and other characteristics of light. This is the strongest armor with both offensive and defensive capabilities.",
+      "icon": "images/items/27616.png",
+      "art": "images/items/art/1816.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27619,
+      "name": "Magnetic Guiding Boots",
+      "description": "Reduce enemy heroes' Speed and Attack.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "35%"
+        },
+        {
+          "name": "Crit Damage Resistance",
+          "value": "40%"
+        },
+        {
+          "name": "Speed",
+          "value": "35"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "HP",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "5%"
+        },
+        {
+          "name": "Crit Damage Resistance",
+          "value": "10%"
+        },
+        {
+          "name": "Speed",
+          "value": "15"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "At the start of the battle, slow the fastest enemy hero down by 40 Speed (this effect takes precedence over the Interference Boots' effect, and only one can be active at a time)."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "At the start of the battle, slow the 2 fastest enemy heroes down by 40 Speed (this effect takes precedence over the Interference Boots' effect, and only one can be active at a time)."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "At the start of the battle, slow the 3 fastest enemy heroes down by 40 Speed (this effect takes precedence over the Interference Boots' effect, and only one can be active at a time)."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "At the start of the battle, slow the 3 fastest enemy heroes down by 40 Speed and reduce the targets' Armor and Attack by 20% (this effect takes precedence over the Interference Boots' effect, and only one can be active at a time)."
+        }
+      ],
+      "info": "Forged from the transformation of energy, this artifact defies the constraints of time and space, boasting unrivaled speed.",
+      "icon": "images/items/27619.png",
+      "art": "images/items/art/1819.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27618,
+      "name": "Mahatma Energy Core",
+      "description": "Cause more damage to HP enemies.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "Crit",
+          "value": "30%"
+        },
+        {
+          "name": "Speed",
+          "value": "60"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "Crit",
+          "value": "10%"
+        },
+        {
+          "name": "Speed",
+          "value": "20"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Increase 150% of damage when attacking a target whose HP is lower than 30%."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Increase 180% of damage when attacking a target whose HP is lower than 30%."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Increase 200% of damage when attacking a target whose HP is lower than 50%."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Increase 220% of damage when attacking a target whose HP is lower than 50%. With every enemy the hero kills, 50 points of energy will be recovered."
+        }
+      ],
+      "info": "The most high-frequency energy that humans can receive. It serves as the energy core of the mecha and strengthens the pilot's talents, allowing them to sense the enemy's fatal weaknesses.",
+      "icon": "images/items/27618.png",
+      "art": "images/items/art/1818.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27615,
+      "name": "Nuclear Drive",
+      "description": "Increase Hit Rate of all controlling effects.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "HP",
+          "value": "35%"
+        },
+        {
+          "name": "Speed",
+          "value": "40"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "10%"
+        },
+        {
+          "name": "Speed",
+          "value": "15"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Effect Hit increased by 20%"
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Effect Hit increased by 30%"
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Effect Hit increased by 40%"
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Effect Hit increased by 60%"
+        }
+      ],
+      "info": "This drive, powered by the continuous energy output of the nuclear reactor, will give your mecha perfect maneuverability.",
+      "icon": "images/items/27615.png",
+      "art": "images/items/art/1815.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27617,
+      "name": "Oblivion Cannon",
+      "description": "Recover energy when using a skill.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "Block",
+          "value": "60%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "10%"
+        },
+        {
+          "name": "Block",
+          "value": "30%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Recover 50 points of energy when using a skill."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Recover 50 points of energy when using a skill. Additional 25 points of energy recovery for allies on the same column."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Recover 50 points of energy for the allies on the same column when using a skill."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "At the beginning of the battle, increase 50 points of energy for its wearer. Recover 50 points of energy for the allies on the same column when using a skill."
+        }
+      ],
+      "info": "A destructive weapon that utilizes oblivion reactions to continuously charge energy and wreak havoc on everything.",
+      "icon": "images/items/27617.png",
+      "art": "images/items/art/1817.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27641,
+      "name": "Singularity Starcleaver",
+      "description": "Singularity Starcleaver",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "Crit",
+          "value": "30%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "Crit",
+          "value": "10%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "When dealing Anomalous Damage, performs a special Crit based on the hero's Crit. On Crit, increases damage by 10%. (Not affected by Crit DMG)"
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "On Crit, increases damage by 20%."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "On Crit, increases damage by 30%."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "On Crit, increases damage by 40%. The first time HP falls below 50%, or takes fatal damage, gains a shield equal to 800% of ATK. For every 1% Crit, increases DMG Mitigation by 1%. (The shield and DMG Mitigation bonus last for 2 rounds.)"
+        }
+      ],
+      "info": "Forged where gravity devours light, this axe was made to cleave through stars and bring ruin to everything.",
+      "icon": "images/items/27641.png",
+      "art": "images/items/art/1841.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27622,
+      "name": "Star Core Engine",
+      "description": "Increase healing effect and restore HP.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "35%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "35%"
+        },
+        {
+          "name": "Crit Damage Resistance",
+          "value": "40%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "HP",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "5%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "10%"
+        },
+        {
+          "name": "Crit Damage Resistance",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Increases the healing effect of all your heroes by 20%."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Increases the healing effect of all your heroes by 30%."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Increases the healing effect of all your heroes by 40%."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Increases the healing effect of all your heroes by 50%. When the artifact wearer's HP drops below 50%, all your heroes will recover 50% of their Max HP (triggers only once per battle)."
+        }
+      ],
+      "info": "From a top-secret Artificial Star Engineering program led by the Techno faction, it overflows with infinite vitality.",
+      "icon": "images/items/27622.png",
+      "art": "images/items/art/1822.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27623,
+      "name": "Terminal Ship Wrecker",
+      "description": "Increases ATK and DMG.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "30%"
+        },
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "30%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "10%"
+        },
+        {
+          "name": "Armor PEN",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "Increase your ATK by 10% when the battle begins. Additionally, with each basic attack or active skill cast by you or an ally, increase your ATK by 2% for 4 rounds (up to 60% of your ATK)."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "Increase your ATK by 10% when the battle begins. Additionally, with each basic attack or active skill cast by you or an ally, increase your ATK by 3% for 4 rounds (up to 90% of your ATK)."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "Increase your ATK by 15% when the battle begins. Additionally, with each basic attack or active skill cast by you or an ally, increase your ATK by 4% for 4 rounds (up to 120% of your ATK)."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "Increase your ATK by 20% when the battle begins. Additionally, with each basic attack or active skill cast by you or an ally, increase your ATK by 5% for 4 rounds (up to 150% of your ATK). Convert 20% of your damage dealt into an HP shield with each shield's strength not exceeding 30% of your Max HP."
+        }
+      ],
+      "info": "A groundbreaking collaboration between Techno and Superpower heroes that is crafted to wipe out any obstacles.",
+      "icon": "images/items/27623.png",
+      "art": "images/items/art/1823.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27613,
+      "name": "Thermo Wings",
+      "description": "Possible to increase the Crit DMG.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "ATK",
+          "value": "35%"
+        },
+        {
+          "name": "Crit",
+          "value": "35%"
+        },
+        {
+          "name": "Crit DMG",
+          "value": "40%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "ATK",
+          "value": "5%"
+        },
+        {
+          "name": "Crit",
+          "value": "10%"
+        },
+        {
+          "name": "Crit DMG",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "When the hero makes a Critical Attack, there is 60% chance to increase 50% of its Crit DMG."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "When the hero makes a Critical Attack, there is a 60% chance to increase 50% of its Crit DMG and a 30% chance to increase 80% of its Crit DMG."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "When the hero makes a Critical Attack, there is a 60% chance to increase 50% of its Crit DMG and a 30% chance to increase 80% of its Crit DMG. There is a 20% chance to increase 110% of additional Crit DMG."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "When the hero makes a Critical Attack, there is a 60% chance to increase 50% of its Crit DMG and a 30% chance to increase 80% of its Crit DMG. There is 20% of chance to increase 110% of additional Crit DMG and 10% of chance to increase 160% of additional Crit DMG. If the effect does not trigger this round, it will be more probable in the next round."
+        }
+      ],
+      "info": "These wings utilize ultra-high thermal energy as the power source, granting the wearer unparalleled burst power.",
+      "icon": "images/items/27613.png",
+      "art": "images/items/art/1813.png",
+      "set": "Power Mecha"
+    },
+    {
+      "id": 27620,
+      "name": "Void Energy Shield",
+      "description": "A shield that withstands more damage.",
+      "level": 30,
+      "stats": [
+        {
+          "name": "HP",
+          "value": "30%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "30%"
+        },
+        {
+          "name": "Crit Resistance",
+          "value": "40%"
+        }
+      ],
+      "echoTitle": "T4 Echo",
+      "echo": [
+        {
+          "name": "HP",
+          "value": "5%"
+        },
+        {
+          "name": "HP",
+          "value": "5%"
+        },
+        {
+          "name": "DMG Mitigation",
+          "value": "10%"
+        },
+        {
+          "name": "Crit Resistance",
+          "value": "15%"
+        }
+      ],
+      "effects": [
+        {
+          "level": 1,
+          "label": "【+1 to unlock】",
+          "description": "When an ally gains a shield, apply another shield equal to 10% of the Artifact wearer's Max HP to that ally (the shield lasts for 2 rounds and can be triggered up to once every 2 rounds)."
+        },
+        {
+          "level": 10,
+          "label": "【+10 to unlock】",
+          "description": "When an ally gains a shield, apply another shield equal to 15% of the Artifact wearer's Max HP to that ally (the shield lasts for 2 rounds and can be triggered up to once every 2 rounds)."
+        },
+        {
+          "level": 20,
+          "label": "【+20 to unlock】",
+          "description": "When an ally gains a shield, apply another shield equal to 20% of the Artifact wearer's Max HP to that ally (the shield lasts for 2 rounds and can be triggered up to once every 2 rounds)."
+        },
+        {
+          "level": 30,
+          "label": "【+30 to unlock】",
+          "description": "When an ally gains a shield, apply another shield equal to 25% of the Artifact wearer's Max HP to that ally (the shield lasts for 2 rounds and can be triggered up to once every 2 rounds). The additional shield also increases the ally's Crit Damage Resistance by 30%."
+        }
+      ],
+      "info": "An indestructible defense shield made of materials from the high-dimensional universe, capable of absorbing all forms of damage.",
+      "icon": "images/items/27620.png",
+      "art": "images/items/art/1820.png",
+      "set": "Power Mecha"
+    }
+  ]
+}
